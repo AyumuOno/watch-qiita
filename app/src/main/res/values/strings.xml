@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Watch Qiita</string>
+    <string name="text">Hello World</string>
 </resources>
